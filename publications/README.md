@@ -1,6 +1,7 @@
 
 # Publications
 ## Master thesis
+
 *Title*: [Applying graph theory concepts for analyzing BIM models based on IFC standards](https://tu-dresden.de/bu/bauingenieurwesen/cib/ressourcen/dateien/publikationen/Projekt-_Diplomarbeiten/Masterarbeit_Ahmed_Nahar_2017.pdf)
 
 *Author*: Ahmed Babkier Nahar
@@ -46,3 +47,32 @@ building projects particularly. And secondly, to provide a tool for a comparison
 IFC standard releases or different IFC model versions, when a single graph database is used to
 storage various IFC models. Finally, the graph model is used for indoor navigation applications in
 buildings using spatial and geometric information extracted from the IFC model.
+
+##Conference papers:
+
+
+* Title: Application of graph databases and graph theory concepts for advanced analysing of BIM models based on IFC standard
+
+Conference: EG-ICE 2017
+
+Authors: Ali Ismail, Ahmed Nahar, Raimar Scherer
+
+Abstract:
+
+In this paper we present a workflow for automatic transformation of IFC schema and IFC models into an IFC Meta and object graph databases. The aim of this research is to study and demonstrate the potential of using graph theory concepts and graph databases in order to manage, visualize and analyse the huge information and complex relationships of BIM models based on IFC standard. For the validation a set data retrieval queries and advanced model analysis for model topology analysis and comparison of different IFC models are carried out in order to demonstrate the flexibility and advantages of the suggested approach.
+
+
+
+*  Title: Building Knowledge Extraction from BIM/IFC Data for Analysis in Graph Databases
+
+Conference: ICAISC_ International Conference on Artificial Intelligence and Soft Computing
+
+Authors: Ali Ismail, Barbara Strug,  Grazyna Slusarczyk
+
+Abstract: 
+
+This paper deals with the problem of knowledge extraction and processing building related data. Information is retrieved from the IFC files, which are an industry standard for storing building information models (BIM). The IfcWebServer is used as a tool for transforming building information into the graph model. This model is stored in a graph database which allows for obtaining knowledge by defining specific graph queries. The process is illustrated by examples of extracting information needed to find different types of routes in an office building.
+
+ 
+
+
