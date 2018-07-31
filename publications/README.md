@@ -1,12 +1,15 @@
 
 # Publications
 ## Master thesis
-Title: [Applying graph theory concepts for analyzing BIM models based on IFC standards](https://tu-dresden.de/bu/bauingenieurwesen/cib/ressourcen/dateien/publikationen/Projekt-_Diplomarbeiten/Masterarbeit_Ahmed_Nahar_2017.pdf)
-Author: Ahmed Babkier Nahar
-Supervisors: Prof. Raimar Scherer & Ali Ismail MSc.
-Period: 06/2016- 01/2017
+*Title*: [Applying graph theory concepts for analyzing BIM models based on IFC standards](https://tu-dresden.de/bu/bauingenieurwesen/cib/ressourcen/dateien/publikationen/Projekt-_Diplomarbeiten/Masterarbeit_Ahmed_Nahar_2017.pdf)
 
-Abstract:
+*Author*: Ahmed Babkier Nahar
+
+*Supervisors*: Prof. Raimar Scherer & Ali Ismail MSc.
+
+*Period*: 06/2016- 01/2017
+
+*Abstract:*
 
 Labeled property graph models are a suitable way for representing and describing the vast amount
 of information inside Building Information Models (BIMs). Where graph models can be
