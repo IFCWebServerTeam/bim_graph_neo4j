@@ -48,7 +48,7 @@ IFC standard releases or different IFC model versions, when a single graph datab
 storage various IFC models. Finally, the graph model is used for indoor navigation applications in
 buildings using spatial and geometric information extracted from the IFC model.
 
-##Conference papers:
+## Conference papers:
 
 
 * Title: Application of graph databases and graph theory concepts for advanced analysing of BIM models based on IFC standard
